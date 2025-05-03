@@ -5,7 +5,7 @@ Session Topics
 ---
 Basic Git commands to add origin in our local …or create a new repository on the command line
 ---
-> - echo "# fiit-amb-java-ee-api" >> README.md
+> echo "# fiit-amb-java-ee-api" >> README.md
 - git init
 - git add README.md
 - git commit -m "first commit"
