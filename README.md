@@ -1,7 +1,7 @@
 # Java EE API Session 
 ## Start Date: 03-May-2025
 ---
-**Session Topics**
+Session Topics
 ---
 Basic Git commands to add origin in our local …or create a new repository on the command line
 ---
