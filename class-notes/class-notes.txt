@@ -1,0 +1,42 @@
+third-party jar files
+|__maven repository
+   |__spring-context
+
+pom.xml - project(spring) configuration file
+|__project object model
+   |__heart of the application
+
+<project>
+  <groupId>com.fiit.learning</groupId>
+  <artifactId>newbean</artifactId>
+  <version>1.0</version>
+
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+  </properties>
+
+  <dependencies>
+
+  </dependencies>
+  
+</project>
+
+@Configuration	- It allows to configure the spring context environment
+@Bean		- It allows to create the bean method
+
+class <ClassName> {
+  variables;	primary/reference	camel/pascal case 
+  methods;	business logic
+}
+
+class Employee{
+}
+
+class EmployeeMain{
+ public static void main(String[] args){
+   Employee employee = new Employee();
+
+
+
+
