@@ -12,3 +12,6 @@ Basic Git commands to add origin in our local …or create a new repository on t
 >>>>> git branch -M main
 >>>>>> git remote add origin https://github.com/kannanfsd/fiit-amb-java-ee-api.git
 >>>>>>> git push -u origin main
+
+Attendance:
+23-06-2025 Online Jeevika | Janani | Logeshwari | Shiva | Sam | Gopinath 
