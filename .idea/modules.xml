@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/advancedjava.iml" filepath="$PROJECT_DIR$/.idea/advancedjava.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaee.iml" filepath="$PROJECT_DIR$/.idea/javaee.iml" />
+>>>>>>> daa83b2879ea0d3d304fba532c480eb77b06768e
     </modules>
   </component>
 </project>
