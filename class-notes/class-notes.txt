@@ -24,6 +24,14 @@ pom.xml - project(spring) configuration file
 
 @Configuration	- It allows to configure the spring context environment
 @Bean		- It allows to create the bean method
+@Primary 	- It allows to specified the bean is by default/primary
+
+@Component	- It allows to create the Bean from the POJO class. 
+		  It represent in ProjectConfig environment
+@ComponentScan	- It instruct to the spring-context 
+|__@PostConstruct
+
+@ComponentScan(basePackages="")
 
 class <ClassName> {
   variables;	primary/reference	camel/pascal case 

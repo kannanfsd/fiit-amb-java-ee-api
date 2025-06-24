@@ -15,3 +15,4 @@ Basic Git commands to add origin in our local …or create a new repository on t
 
 Attendance:
 23-06-2025 Online Jeevika | Janani | Logeshwari | Shiva | Sam | Gopinath 
+24-06-2025 Online Jeevika | Janani | Logeshwari | Shiva | Sam | Gopinath | Karthika
