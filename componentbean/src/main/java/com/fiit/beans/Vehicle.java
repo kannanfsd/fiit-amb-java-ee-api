@@ -11,7 +11,6 @@ public class Vehicle {
 
     public Vehicle() {
         System.out.println("Vehicle bean is created by Spring-Context.");
-        brandName = "BMW";
     }
 
     public String getBrandName() {
@@ -20,9 +19,5 @@ public class Vehicle {
 
     public void setBrandName(String brandName) {
         this.brandName = brandName;
-    }
-
-    public String getModel(){
-        return "FIIT - Online";
     }
 }

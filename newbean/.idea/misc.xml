@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/../primarybean/pom.xml" />
         <option value="$PROJECT_DIR$/../componentbean/pom.xml" />
         <option value="$PROJECT_DIR$/../postconstructbean/pom.xml" />
+        <option value="$PROJECT_DIR$/../wiringbean/pom.xml" />
+        <option value="$PROJECT_DIR$/../autowiringbean/pom.xml" />
       </list>
     </option>
   </component>
